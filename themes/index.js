@@ -18,6 +18,12 @@ export const themes = {
     text_color: "417E87",
     bg_color: "ffffff00",
   },
+   perla: {
+    title_color: "7b003d",
+    icon_color: "7b003d",
+    text_color: "fffefe",
+    bg_color: "FFEEEE",
+  },
   dark: {
     title_color: "fff",
     icon_color: "79ff97",
